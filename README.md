@@ -8,7 +8,7 @@
 ## Sobre o projeto:
 Olá!
 
-Este é um projeto de portfólio que fiz usando apenas HTML e CSS no meio do ano de 2022, como parte de um desafio do curso da Rocketseat, enquanto estudava HTML e CSS. Foi uma ótima oportunidade para aprimorar minhas habilidades de desenvolvimento web. Espero que este projeto possa inspirar e auxiliar outros desenvolvedores que também estão aprendendo essas tecnologias.
+Este é um projeto de portfólio que fiz usando apenas HTML e CSS no meio do ano de 2022, como parte de um desafio do curso da Rocketseat, enquanto estudava. Foi uma ótima oportunidade para aprimorar minhas habilidades de desenvolvimento web. Espero que este projeto possa inspirar e auxiliar outros desenvolvedores que também estão aprendendo essas tecnologias.
 
 Para descontrair, decidi criar este portfólio inspirado no incrível Dwayne Johnson.
 
